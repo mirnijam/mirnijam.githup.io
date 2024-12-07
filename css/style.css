@@ -331,6 +331,13 @@ img{
   #footer .nav-link{
     padding: 8px 10px;
   }
+  #footer .items1 {
+  color: #fff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 64px !important;
+}
 }
 #footer p {
   margin-bottom: 0px;
@@ -346,7 +353,7 @@ img{
   display: flex;
   align-items: center;
   justify-content: center;
-  min-height: 64px !important;
+  
 }
 
 #footer .all-icnos {
